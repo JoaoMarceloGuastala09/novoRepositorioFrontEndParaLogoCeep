@@ -5,3 +5,6 @@
 ---
 #### 21/03/2025 - Adicionando logotipos e criando links de abas
 ---
+#### 04/04/2025 - Atualizando CSS, personalizando redes sociais e deixando interativas
+#### CSS atualizado: `Container` e `Header`
+---
