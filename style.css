@@ -46,3 +46,10 @@ header h1 {
     box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
     position: relative;
 }
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 4px solid red;
+    border-right: 2px solid red
+}
