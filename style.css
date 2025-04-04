@@ -53,3 +53,29 @@ header {
     border-bottom: 4px solid red;
     border-right: 2px solid red
 }
+
+main {
+    padding: 10px 0;
+    border-bottom: 4px solid red;
+    border-right: 2px solid red
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+    border-bottom: 4px solid red;
+    border-right: 2px solid red;
+    color: #777;
+}
+
+.menu-flutuante {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgb(0, 0, 0, 0.2);
+}
